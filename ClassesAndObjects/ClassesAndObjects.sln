@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. CheckIfYearIsLeap", "01. CheckIfYearIsLeap\01. CheckIfYearIsLeap.csproj", "{81041F0C-C044-47AA-81D0-C3E303C30EB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. TenRandomNumbers", "02. TenRandomNumbers\02. TenRandomNumbers.csproj", "{F13D59A1-8DAC-45F2-B518-115184C0E9A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. DayOfWeek", "03. DayOfWeek\03. DayOfWeek.csproj", "{AE294367-5CB3-49B6-B01A-A6B951524E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. SumOfIntegers", "06. SumOfIntegers\06. SumOfIntegers.csproj", "{A7098981-2A69-443E-8E53-B2921E77033B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. CalculateWorkdays", "05. CalcilateWorkdays\05. CalculateWorkdays.csproj", "{CF4BCC89-6A25-4DE1-9561-99F00AA11326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. TriangleSurface", "04. TriangleSurface\04. TriangleSurface.csproj", "{291305A3-390D-41DF-A445-C9AFBD52A502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81041F0C-C044-47AA-81D0-C3E303C30EB2}.Debug|x86.ActiveCfg = Debug|x86
+		{81041F0C-C044-47AA-81D0-C3E303C30EB2}.Debug|x86.Build.0 = Debug|x86
+		{81041F0C-C044-47AA-81D0-C3E303C30EB2}.Release|x86.ActiveCfg = Release|x86
+		{81041F0C-C044-47AA-81D0-C3E303C30EB2}.Release|x86.Build.0 = Release|x86
+		{F13D59A1-8DAC-45F2-B518-115184C0E9A1}.Debug|x86.ActiveCfg = Debug|x86
+		{F13D59A1-8DAC-45F2-B518-115184C0E9A1}.Debug|x86.Build.0 = Debug|x86
+		{F13D59A1-8DAC-45F2-B518-115184C0E9A1}.Release|x86.ActiveCfg = Release|x86
+		{F13D59A1-8DAC-45F2-B518-115184C0E9A1}.Release|x86.Build.0 = Release|x86
+		{AE294367-5CB3-49B6-B01A-A6B951524E20}.Debug|x86.ActiveCfg = Debug|x86
+		{AE294367-5CB3-49B6-B01A-A6B951524E20}.Debug|x86.Build.0 = Debug|x86
+		{AE294367-5CB3-49B6-B01A-A6B951524E20}.Release|x86.ActiveCfg = Release|x86
+		{AE294367-5CB3-49B6-B01A-A6B951524E20}.Release|x86.Build.0 = Release|x86
+		{A7098981-2A69-443E-8E53-B2921E77033B}.Debug|x86.ActiveCfg = Debug|x86
+		{A7098981-2A69-443E-8E53-B2921E77033B}.Debug|x86.Build.0 = Debug|x86
+		{A7098981-2A69-443E-8E53-B2921E77033B}.Release|x86.ActiveCfg = Release|x86
+		{A7098981-2A69-443E-8E53-B2921E77033B}.Release|x86.Build.0 = Release|x86
+		{CF4BCC89-6A25-4DE1-9561-99F00AA11326}.Debug|x86.ActiveCfg = Debug|x86
+		{CF4BCC89-6A25-4DE1-9561-99F00AA11326}.Debug|x86.Build.0 = Debug|x86
+		{CF4BCC89-6A25-4DE1-9561-99F00AA11326}.Release|x86.ActiveCfg = Release|x86
+		{CF4BCC89-6A25-4DE1-9561-99F00AA11326}.Release|x86.Build.0 = Release|x86
+		{291305A3-390D-41DF-A445-C9AFBD52A502}.Debug|x86.ActiveCfg = Debug|x86
+		{291305A3-390D-41DF-A445-C9AFBD52A502}.Debug|x86.Build.0 = Debug|x86
+		{291305A3-390D-41DF-A445-C9AFBD52A502}.Release|x86.ActiveCfg = Release|x86
+		{291305A3-390D-41DF-A445-C9AFBD52A502}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
