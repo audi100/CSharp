@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Write a program that extracts from a given text all sentences containing given word.
+//Consider that the sentences are separated by "." and the words – by non-letter symbols.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

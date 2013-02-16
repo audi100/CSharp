@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Write a program that reads a string from the console and replaces all series of consecutive 
+//identical letters with a single one. Example: "aaaaabbbbbcdddeeeedssaa"  "abcdedsa".
+using System;
 using System.Text;
 using System.Text.RegularExpressions;
 

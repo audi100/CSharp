@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
